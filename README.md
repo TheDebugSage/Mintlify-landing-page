@@ -58,13 +58,13 @@ The goal of this project is to practice:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TheDebugSage/Cursor-Landing-Page.git
+   git clone https://github.com/TheDebugSage/Mintlify-landing-page.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd Cursor-Landing-Page
+   cd Mintlify-Landing-Page
    ```
 
 3. Open `index.html` in your browser
