@@ -1,0 +1,23 @@
+body{
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    
+    }
+
+    h1 {
+        font-weight: 700;
+    }
+
+    :root {
+        --color-text-main: #000000;
+    }
+
+.hero_image {
+height: 1200px;
+width: 100%;
+
+background-image: url("img/bg.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+}
