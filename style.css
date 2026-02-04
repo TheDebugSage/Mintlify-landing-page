@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+    font-family: "Inter", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
     }
 
@@ -8,9 +8,7 @@ body{
         font-weight: 700;
     }
 
-    :root {
-        --color-text-main: #000000;
-    }
+    
 
 .hero_image {
 height: 1200px;
